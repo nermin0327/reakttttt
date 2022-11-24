@@ -1,0 +1,16 @@
+
+.input{
+    display: block;
+    margin: 100px;
+    padding: 30px;
+    width:400px;
+    background-color: aliceblue;
+    border-radius: 7px;
+    border: 1px solid black;
+}
+ button:hover{
+    background-color: red;
+ }
+input{
+    width: 300px;
+}
